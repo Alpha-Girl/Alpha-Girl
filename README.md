@@ -19,4 +19,11 @@
 -- [USTC_OJ(科大OJ)](https://github.com/Alpha-Girl/USTC.OJ)
 -- [algorithm_labs(算法基础实验)](https://github.com/Alpha-Girl/algorithm2020_labs)
 <!--START_SECTION:waka-->
+```text
+Python     4 hrs 43 mins   ██████████████████▒░░░░░░   73.36 % 
+Verilog    1 hr 11 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.50 % 
+C          18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+Markdown   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+HTML       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+```
 <!--END_SECTION:waka-->
