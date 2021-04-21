@@ -12,10 +12,11 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - ✨ My projects:
-- -**Plz star⭐ it！**
-- -[COD_labs(组成原理实验)](https://github.com/Alpha-Girl/COD_labs)
-- -[CSAPP_labs(深入理解计算机系统实验)](https://github.com/Alpha-Girl/SCAPP_labs)
-- -[Network_labs(计算机网络实验)](https://github.com/Alpha-Girl/Network_2020)
-- -[USTC_OJ(科大OJ)](https://github.com/Alpha-Girl/USTC.OJ)
-- -[algorithm_labs(算法基础实验)](https://github.com/Alpha-Girl/algorithm2020_labs)
-- 
+-- **Plz star⭐ it！**
+-- [COD_labs(组成原理实验)](https://github.com/Alpha-Girl/COD_labs)
+-- [CSAPP_labs(深入理解计算机系统实验)](https://github.com/Alpha-Girl/SCAPP_labs)
+-- [Network_labs(计算机网络实验)](https://github.com/Alpha-Girl/Network_2020)
+-- [USTC_OJ(科大OJ)](https://github.com/Alpha-Girl/USTC.OJ)
+-- [algorithm_labs(算法基础实验)](https://github.com/Alpha-Girl/algorithm2020_labs)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
