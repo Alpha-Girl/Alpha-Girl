@@ -6,12 +6,12 @@
 - 📫 How to reach me: [alphaboy@mail.ustc.edu.cn](mailto:alphaboy@mail.ustc.edu.cn)
 - ⚡ Fun fact: ⚽, 🎱, 🎮, 🚲...
 - ✨ My projects:
-* **Plz star⭐ it！**
-* [COD_labs(组成原理实验)](https://github.com/Alpha-Girl/COD_labs)
-* [CSAPP_labs(深入理解计算机系统实验)](https://github.com/Alpha-Girl/SCAPP_labs)
-* [Network_labs(计算机网络实验)](https://github.com/Alpha-Girl/Network_2020)
-* [USTC_OJ(科大OJ)](https://github.com/Alpha-Girl/USTC.OJ)
-* [algorithm_labs(算法基础实验)](https://github.com/Alpha-Girl/algorithm2020_labs)
+  * **Plz star⭐ it！**
+  * [COD_labs(组成原理实验)](https://github.com/Alpha-Girl/COD_labs)
+  * [CSAPP_labs(深入理解计算机系统实验)](https://github.com/Alpha-Girl/SCAPP_labs)
+  * [Network_labs(计算机网络实验)](https://github.com/Alpha-Girl/Network_2020)
+  * [USTC_OJ(科大OJ)](https://github.com/Alpha-Girl/USTC.OJ)
+  * [algorithm_labs(算法基础实验)](https://github.com/Alpha-Girl/algorithm2020_labs)
 - 💬 Programing lauguages used last week: 
 <!--START_SECTION:waka-->
 ```text
@@ -22,16 +22,16 @@ C          57 mins         ██▓░░░░░░░░░░░░░░�
 Makefile   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 ```
 <!--END_SECTION:waka-->
-
-<details>
-  <summary>GitHub Statistics</summary>
-  GitHub Stats Card<br/>
+**GitHub Statistics**
+  - GitHub Stats Card
   <a href="https://github.com/Alpha-Girl/Alpha-Girl">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Alpha-Girl&show_icons=true"/>
-  </a><br/>
-  Alpha-Girl's contribution graph as a Game of Life<br/>
-  [![Alpha-Girl's contribution graph as a Game of Life](https://github4life.herokuapp.com/Alpha-Girl.gif)](https://github4life.herokuapp.com/Alpha-Girl)
-  <br/>
-  Pageviews<br/>
+  </a>
+  - Alpha-Girl's contribution graph as a Game of Life
+  
+  [![Alpha-Girl's contribution graph as a Game of Life](https://github4life.herokuapp.com/Alpha-Girl.gif)](https://github4life.herokuapp.com/Alpha-Girl) 
+  
+  - Pageviews
+  
   <img align='center' src="https://profile-counter.glitch.me/Alpha-Girl/count.svg" alt="访客数量"/>
-</details>
+
