@@ -24,9 +24,10 @@ Makefile   9 mins          ▒░░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 **GitHub Statistics**
   - GitHub Stats Card
-  <a href="https://github.com/Alpha-Girl/Alpha-Girl">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Alpha-Girl&show_icons=true"/>
-  </a>
+  
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Alpha-Girl&show_icons=true">
+
+  
   - Alpha-Girl's contribution graph as a Game of Life
   
   [![Alpha-Girl's contribution graph as a Game of Life](https://github4life.herokuapp.com/Alpha-Girl.gif)](https://github4life.herokuapp.com/Alpha-Girl) 
