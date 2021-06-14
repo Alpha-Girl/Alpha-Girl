@@ -15,8 +15,7 @@
 - 💬 Programing lauguages used last week: 
 <!--START_SECTION:waka-->
 ```text
-V               16 mins         ██████████████████░░░░░░░   71.92 % 
-SystemVerilog   6 mins          ███████░░░░░░░░░░░░░░░░░░   28.08 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 **GitHub Statistics**
