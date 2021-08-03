@@ -6,12 +6,23 @@
 - 📫 How to reach me: [alphaboy@mail.ustc.edu.cn](mailto:alphaboy@mail.ustc.edu.cn)
 <!--- ⚡ Fun fact: ⚽, 🎱, 🎮, 🚲...-->
 - ✨ My projects:
-  * **Plz star⭐ it！**
-  * [COD_labs(组成原理实验)](https://github.com/Alpha-Girl/COD_labs)
-  * [CSAPP_labs(深入理解计算机系统实验)](https://github.com/Alpha-Girl/SCAPP_labs)
-  * [Network_labs(计算机网络实验)](https://github.com/Alpha-Girl/Network_2020)
-  * [USTC_OJ(科大OJ)](https://github.com/Alpha-Girl/USTC.OJ)
-  * [algorithm_labs(算法基础实验)](https://github.com/Alpha-Girl/algorithm2020_labs)
+  * **Plz star⭐ it！** </br>
+    ⒈ [AI2021_labs(人工智能基础实验)](https://github.com/Alpha-Girl/AI2021_labs)</br>
+    ⒉ [CGlabs_2021(计算机图形学实验)](https://github.com/Alpha-Girl/CGlabs_2021)</br>
+    ⒊ [DP2021_labs(数据隐私作业及实验)](https://github.com/Alpha-Girl/DP2021_labs)</br>
+    ⒋ [db2021_labs(数据库部分作业及实验)](https://github.com/Alpha-Girl/db2021_labs)</br>
+    ⒌ [DI2021_labs(图象处理实验)](https://github.com/Alpha-Girl/DI2021_labs)</br>
+    ⒍ [CA2021_labs(体系结构实验)](https://github.com/Alpha-Girl/CA2021_labs)</br>
+    ⒎ [NC2021_labs(计算方法实验)](https://github.com/Alpha-Girl/NC2021_labs)</br>
+    ⒏ [os2020_labs(操作系统实验)](https://github.com/Alpha-Girl/os2020-labs)</br>
+  <details>
+  <summary><mark><font color=darkred>More</font></mark></summary>
+    &nbsp &nbsp &nbsp  &nbsp⒑ <a href="https://github.com/Alpha-Girl/COD_labs">COD_labs(组成原理实验)</a></br>
+    &nbsp &nbsp &nbsp  &nbsp⒒ <a href="https://github.com/Alpha-Girl/SCAPP_labs">CSAPP_labs(深入理解计算机系统实验)</a></br>
+    &nbsp &nbsp &nbsp  &nbsp⒓ <a href="https://github.com/Alpha-Girl/Network_2020">Network_labs(计算机网络实验)</a></br>
+    &nbsp &nbsp &nbsp  &nbsp⒔ <a href="https://github.com/Alpha-Girl/USTC.OJ">USTC_OJ(科大OJ)</a></br>
+    &nbsp &nbsp &nbsp  &nbsp⒕ <a href="https://github.com/Alpha-Girl/algorithm2020_labs">algorithm_labs(算法基础实验)</a></br>
+   </details>
 - 💬 Programing lauguages used last week: 
 <!--START_SECTION:waka-->
 ```text
