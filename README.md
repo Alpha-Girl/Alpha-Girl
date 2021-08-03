@@ -1,10 +1,10 @@
 ### Yixiang Hu, undergraduate@USTC
 <!--
 **Alpha-Girl/Alpha-Girl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-- 🔭 I’m currently working on [DeepCTR](https://github.com/Alpha-Girl/DeepCTR-Torch), [OScomp](https://github.com/Alpha-Girl/TisuOS) ...
-- 🌱 I’m currently learning MySql, Matlab, PyTorch, Rust ...
+- 🔭 I’m currently working on [DeepCTR](https://github.com/Alpha-Girl/DeepCTR-Torch), [RoboGame_2021](https://github.com/Alpha-Girl/RoboGame_2021) ...
+- 🌱 I’m currently learning PyTorch...
 - 📫 How to reach me: [alphaboy@mail.ustc.edu.cn](mailto:alphaboy@mail.ustc.edu.cn)
-<!--- ⚡ Fun fact: ⚽, 🎱, 🎮, 🚲...-->
+- ⚡ Fun fact: 📺[bilibili](https://space.bilibili.com/8015655)...
 - ✨ My projects:
   * **Plz star⭐ it！** </br>
     ⒈ [AI2021_labs(人工智能基础实验)](https://github.com/Alpha-Girl/AI2021_labs)</br>
@@ -17,11 +17,11 @@
     ⒏ [os2020_labs(操作系统实验)](https://github.com/Alpha-Girl/os2020-labs)</br>
   <details>
   <summary><mark><font color=darkred>More</font></mark></summary>
-    &nbsp &nbsp &nbsp  &nbsp⒑ <a href="https://github.com/Alpha-Girl/COD_labs">COD_labs(组成原理实验)</a></br>
-    &nbsp &nbsp &nbsp  &nbsp⒒ <a href="https://github.com/Alpha-Girl/SCAPP_labs">CSAPP_labs(深入理解计算机系统实验)</a></br>
-    &nbsp &nbsp &nbsp  &nbsp⒓ <a href="https://github.com/Alpha-Girl/Network_2020">Network_labs(计算机网络实验)</a></br>
-    &nbsp &nbsp &nbsp  &nbsp⒔ <a href="https://github.com/Alpha-Girl/USTC.OJ">USTC_OJ(科大OJ)</a></br>
-    &nbsp &nbsp &nbsp  &nbsp⒕ <a href="https://github.com/Alpha-Girl/algorithm2020_labs">algorithm_labs(算法基础实验)</a></br>
+    &nbsp &nbsp &nbsp  &nbsp⒐ <a href="https://github.com/Alpha-Girl/COD_labs">COD_labs(组成原理实验)</a></br>
+    &nbsp &nbsp &nbsp  &nbsp⒑ <a href="https://github.com/Alpha-Girl/SCAPP_labs">CSAPP_labs(深入理解计算机系统实验)</a></br>
+    &nbsp &nbsp &nbsp  &nbsp⒒ <a href="https://github.com/Alpha-Girl/Network_2020">Network_labs(计算机网络实验)</a></br>
+    &nbsp &nbsp &nbsp  &nbsp⒓ <a href="https://github.com/Alpha-Girl/USTC.OJ">USTC_OJ(科大OJ)</a></br>
+    &nbsp &nbsp &nbsp  &nbsp⒔ <a href="https://github.com/Alpha-Girl/algorithm2020_labs">algorithm_labs(算法基础实验)</a></br>
    </details>
 - 💬 Programing lauguages used last week: 
 <!--START_SECTION:waka-->
