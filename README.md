@@ -18,7 +18,7 @@
   <details>
   <summary><mark><font color=darkred>More</font></mark></summary>
     &nbsp &nbsp &nbsp  &nbsp⒐ <a href="https://github.com/Alpha-Girl/COD_labs">COD_labs(组成原理实验)</a></br>
-    &nbsp &nbsp &nbsp  &nbsp⒑ <a href="https://github.com/Alpha-Girl/SCAPP_labs">CSAPP_labs(深入理解计算机系统实验)</a></br>
+    &nbsp &nbsp &nbsp  &nbsp⒑ <a href="https://github.com/Alpha-Girl/CSAPP_labs">CSAPP_labs(深入理解计算机系统实验)</a></br>
     &nbsp &nbsp &nbsp  &nbsp⒒ <a href="https://github.com/Alpha-Girl/Network_2020">Network_labs(计算机网络实验)</a></br>
     &nbsp &nbsp &nbsp  &nbsp⒓ <a href="https://github.com/Alpha-Girl/USTC.OJ">USTC_OJ(科大OJ)</a></br>
     &nbsp &nbsp &nbsp  &nbsp⒔ <a href="https://github.com/Alpha-Girl/algorithm2020_labs">algorithm_labs(算法基础实验)</a></br>
