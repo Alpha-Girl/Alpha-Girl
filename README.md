@@ -26,7 +26,7 @@
 - 💬 Programing lauguages used last week: 
 <!--START_SECTION:waka-->
 ```text
-C        14 mins         ████████████████████████▓   98.22 % 
+
 ```
 <!--END_SECTION:waka-->
 **GitHub Statistics**
