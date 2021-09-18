@@ -26,7 +26,7 @@
 - 💬 Programing lauguages used last week: 
 <!--START_SECTION:waka-->
 ```text
-C++      16 hrs 3 mins   █████████████████████████   99.99 % 
+C++     18 hrs 39 mins  █████████████████████████   99.99 % 
 ```
 <!--END_SECTION:waka-->
 **GitHub Statistics**
