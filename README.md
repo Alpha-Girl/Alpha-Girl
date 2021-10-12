@@ -26,7 +26,8 @@
 - 💬 Programing lauguages used last week: 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+C++     1 hr 15 mins    ████████████████████████▒   97.40 % 
+INI     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
 ```
 <!--END_SECTION:waka-->
 **GitHub Statistics**
