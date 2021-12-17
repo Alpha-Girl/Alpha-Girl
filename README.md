@@ -26,8 +26,7 @@
 - 💬 Programing lauguages used last week: 
 <!--START_SECTION:waka-->
 ```text
-Python   21 mins         ███████████████████████▒░   93.01 % 
-JSON     1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 **GitHub Statistics**
