@@ -26,7 +26,7 @@
 - 💬 Programing lauguages used last week: 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Markdown   1 hr 4 mins     █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 **GitHub Statistics**
