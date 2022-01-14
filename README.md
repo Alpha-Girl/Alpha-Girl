@@ -33,6 +33,8 @@ Markdown   6 mins          ▒░░░░░░░░░░░░░░░░�
 Text       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 ```
 <!--END_SECTION:waka-->
+- Total coding time: [![wakatime](https://wakatime.com/badge/user/c9f4c7b3-0e21-495a-9d1c-ca69e9c813e8.svg)](https://wakatime.com/@c9f4c7b3-0e21-495a-9d1c-ca69e9c813e8) (Since Dec 4 2020)
+
 **GitHub Statistics**
   - GitHub Stats Card
   
