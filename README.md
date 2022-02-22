@@ -26,7 +26,9 @@
 - 💬 Programing lauguages used last week: 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Python       6 hrs 28 mins   ████████████████████████▓   98.25 % 
+HTML         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+Other        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 ```
 <!--END_SECTION:waka-->
 - Total coding time: [![wakatime](https://wakatime.com/badge/user/c9f4c7b3-0e21-495a-9d1c-ca69e9c813e8.svg)](https://wakatime.com/@c9f4c7b3-0e21-495a-9d1c-ca69e9c813e8) (Since Dec 4 2020)
