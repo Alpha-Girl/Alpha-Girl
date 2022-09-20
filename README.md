@@ -1,4 +1,4 @@
-### Yixiang Hu, undergraduate@USTC
+### Yixiang Hu, master@USTC
 <!--
 **Alpha-Girl/Alpha-Girl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 - 🔭 I’m currently working on [DeepCTR](https://github.com/Alpha-Girl/DeepCTR-Torch), [RoboGame_2021](https://github.com/Alpha-Girl/RoboGame_2021) ...
