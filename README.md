@@ -27,10 +27,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python       4 hrs 45 mins   ████████████████████▓░░░░   82.34 %
-Markdown     48 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.95 %
-Text         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
-Git Config   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+Python       2 hrs 58 mins   █████████████████████████   99.71 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 ```
 
 <!--END_SECTION:waka-->
