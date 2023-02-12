@@ -27,10 +27,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-C++        49 mins         ████████████████░░░░░░░░░   64.21 %
-C          27 mins         █████████░░░░░░░░░░░░░░░░   35.55 %
-Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
-Makefile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
