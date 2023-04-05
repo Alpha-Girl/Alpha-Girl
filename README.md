@@ -44,10 +44,11 @@ Text         0 secs          ░░░░░░░░░░░░░░░░░
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Alpha-Girl&show_icons=true">
 
   
-  - Alpha-Girl's contribution graph as a Game of Life
+  - Alpha-Girl's contribution graph
   
-  [![Alpha-Girl's contribution graph as a Game of Life](https://github4life.herokuapp.com/Alpha-Girl.gif)](https://github4life.herokuapp.com/Alpha-Girl) 
-  
+<!--   [![Alpha-Girl's contribution graph as a Game of Life](https://github4life.herokuapp.com/Alpha-Girl.gif)](https://github4life.herokuapp.com/Alpha-Girl)  -->
+  [![Alpha-Girl's contribution graph]( https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg) 
+ 
   - Pageviews
   
   <img align='center' src="https://profile-counter.glitch.me/Alpha-Girl/count.svg" alt="访客数量"/>
