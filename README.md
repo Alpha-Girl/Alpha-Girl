@@ -1,9 +1,7 @@
-### Yixiang Hu, master@USTC
+### Yi-Xiang Hu, PhD Candidate@USTC
 <!--
 **Alpha-Girl/Alpha-Girl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-- 🔭 I’m currently working on [DeepCTR](https://github.com/Alpha-Girl/DeepCTR-Torch), [RoboGame_2021](https://github.com/Alpha-Girl/RoboGame_2021) ...
-- 🌱 I’m currently learning PyTorch...
-- 📫 How to reach me: [alphaboy@mail.ustc.edu.cn](mailto:alphaboy@mail.ustc.edu.cn)
+- 📫 How to reach me: [yixianghu@mail.ustc.edu.cn](mailto:yixianghu@mail.ustc.edu.cn)
 - ⚡ Fun fact: 📺[bilibili](https://space.bilibili.com/8015655)...
 - ✨ My projects:
   * **Plz star⭐ it！** </br>
